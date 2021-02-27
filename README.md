@@ -5,6 +5,7 @@ Olá! Bem vindo ao mei livro de receitas
  - Pave
  - Torta
  - Sorvete
+ - Bolo de chocolate
 
 
 
